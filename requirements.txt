@@ -2,7 +2,6 @@ youtube_transcript_api
 anthropic
 supabase
 requests
-json
 numpy
 google.generativeai
 pinecone
