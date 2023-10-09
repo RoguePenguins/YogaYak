@@ -1,0 +1,10 @@
+youtube_transcript_api
+anthropic
+googleapiclient.discovery
+supabase
+requests
+json
+numpy
+google.generativeai
+pinecone
+fastapi
