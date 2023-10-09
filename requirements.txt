@@ -4,5 +4,5 @@ supabase
 requests
 numpy
 google.generativeai
-pinecone
+pinecone-client
 fastapi
