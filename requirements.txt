@@ -3,6 +3,6 @@ anthropic
 supabase
 requests
 numpy
-google.generativeai
+google-generativeai
 pinecone-client
 fastapi
